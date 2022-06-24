@@ -1,0 +1,2 @@
+printf '#!/bin/bash'
+su betty
