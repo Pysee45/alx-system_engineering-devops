@@ -1,2 +1,2 @@
-printf '#!/bin/bash'
+#!/bin/bash
 su betty
